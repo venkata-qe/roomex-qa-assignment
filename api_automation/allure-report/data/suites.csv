@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Oct 21 16:53:40 BST 2022","Fri Oct 21 16:53:41 BST 2022","485","Posts API service validation tests","","","","","should verify GET comments with, and validate users email address in the response",""
+"passed","Fri Oct 21 16:53:41 BST 2022","Fri Oct 21 16:53:42 BST 2022","566","Posts API service validation tests","","","","","should verify adding an additional POST to the list",""
+"passed","Fri Oct 21 16:53:41 BST 2022","Fri Oct 21 16:53:41 BST 2022","417","Posts API service validation tests","","","","","should verify GET comments call and handle, any handle slow server response",""

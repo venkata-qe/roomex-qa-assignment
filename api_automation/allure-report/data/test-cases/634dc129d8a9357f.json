@@ -1,0 +1,66 @@
+{
+  "uid" : "634dc129d8a9357f",
+  "name" : "should verify adding an additional POST to the list",
+  "fullName" : "should verify adding an additional POST to the list",
+  "historyId" : "23adf88ebd44dadea781993395dece64",
+  "time" : {
+    "start" : 1666367621742,
+    "stop" : 1666367622308,
+    "duration" : 566
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "test"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Posts API service validation tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "42d9c4b04dd0ec3b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666367535607,
+        "stop" : 1666367536142,
+        "duration" : 535
+      }
+    }, {
+      "uid" : "f36155df9fd97dae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666356656720,
+        "stop" : 1666356656961,
+        "duration" : 241
+      }
+    }, {
+      "uid" : "6ec0c1560683c8fb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666356629159,
+        "stop" : 1666356629430,
+        "duration" : 271
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "634dc129d8a9357f.json",
+  "parameterValues" : [ ]
+}

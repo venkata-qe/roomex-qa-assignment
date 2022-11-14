@@ -1,0 +1,1 @@
+export const REQRES_BASE_URI = "https://jsonplaceholder.typicode.com"

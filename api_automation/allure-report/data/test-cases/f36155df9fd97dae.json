@@ -1,0 +1,40 @@
+{
+  "uid" : "f36155df9fd97dae",
+  "name" : "should verify adding an additional POST to the list",
+  "fullName" : "should verify adding an additional POST to the list",
+  "historyId" : "23adf88ebd44dadea781993395dece64",
+  "time" : {
+    "start" : 1666356656720,
+    "stop" : 1666356656961,
+    "duration" : 241
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "test"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Posts API service validation tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f36155df9fd97dae.json",
+  "parameterValues" : [ ]
+}

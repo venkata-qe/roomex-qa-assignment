@@ -1,0 +1,143 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 3,
+    "passes": 3,
+    "pending": 0,
+    "failures": 0,
+    "start": "2022-10-21T16:11:02.373Z",
+    "end": "2022-10-21T16:11:03.733Z",
+    "duration": 1360,
+    "testsRegistered": 3,
+    "passPercent": 100,
+    "pendingPercent": 0,
+    "other": 0,
+    "hasOther": false,
+    "skipped": 0,
+    "hasSkipped": false
+  },
+  "results": [
+    {
+      "uuid": "d90d5a78-14f8-41e4-8352-60f312aa8fe6",
+      "title": "",
+      "fullFile": "/Users/narengundeboina/Documents/Roomex_test/RoomexQAAssignment/api_automation/test/api_tests.ts",
+      "file": "/test/api_tests.ts",
+      "beforeHooks": [],
+      "afterHooks": [],
+      "tests": [],
+      "suites": [
+        {
+          "uuid": "cf21fc7f-81f1-4ab7-bf87-0b37d68797e0",
+          "title": "Posts API service validation tests",
+          "fullFile": "/Users/narengundeboina/Documents/Roomex_test/RoomexQAAssignment/api_automation/test/api_tests.ts",
+          "file": "/test/api_tests.ts",
+          "beforeHooks": [],
+          "afterHooks": [],
+          "tests": [
+            {
+              "title": "should verify GET comments with, and validate users email address in the response",
+              "fullTitle": "Posts API service validation tests should verify GET comments with, and validate users email address in the response",
+              "timedOut": false,
+              "duration": 570,
+              "state": "passed",
+              "speed": "slow",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": "\"Response: [\\n    {\\n        \\\"postId\\\": 1,\\n        \\\"id\\\": 1,\\n        \\\"name\\\": \\\"id labore ex et quam laborum\\\",\\n        \\\"email\\\": \\\"Eliseo@gardner.biz\\\",\\n        \\\"body\\\": \\\"laudantium enim quasi est quidem magnam voluptate ipsam eos\\\\ntempora quo necessitatibus\\\\ndolor quam autem quasi\\\\nreiciendis et nam sapiente accusantium\\\"\\n    },\\n    {\\n        \\\"postId\\\": 1,\\n        \\\"id\\\": 2,\\n        \\\"name\\\": \\\"quo vero reiciendis velit similique earum\\\",\\n        \\\"email\\\": \\\"Jayne_Kuhic@sydney.com\\\",\\n        \\\"body\\\": \\\"est natus enim nihil est dolore omnis voluptatem numquam\\\\net omnis occaecati quod ullam at\\\\nvoluptatem error expedita pariatur\\\\nnihil sint nostrum voluptatem reiciendis et\\\"\\n    },\\n    {\\n        \\\"postId\\\": 1,\\n        \\\"id\\\": 3,\\n        \\\"name\\\": \\\"odio adipisci rerum aut animi\\\",\\n        \\\"email\\\": \\\"Nikita@garfield.biz\\\",\\n        \\\"body\\\": \\\"quia molestiae reprehenderit quasi aspernatur\\\\naut expedita occaecati aliquam eveniet laudantium\\\\nomnis quibusdam delectus saepe quia accusamus maiores nam est\\\\ncum et ducimus et vero voluptates excepturi deleniti ratione\\\"\\n    },\\n    {\\n        \\\"postId\\\": 1,\\n        \\\"id\\\": 4,\\n        \\\"name\\\": \\\"alias odio sit\\\",\\n        \\\"email\\\": \\\"Lew@alysha.tv\\\",\\n        \\\"body\\\": \\\"non et atque\\\\noccaecati deserunt quas accusantium unde odit nobis qui voluptatem\\\\nquia voluptas consequuntur itaque dolor\\\\net qui rerum deleniti ut occaecati\\\"\\n    },\\n    {\\n        \\\"postId\\\": 1,\\n        \\\"id\\\": 5,\\n        \\\"name\\\": \\\"vero eaque aliquid doloribus et culpa\\\",\\n        \\\"email\\\": \\\"Hayden@althea.biz\\\",\\n        \\\"body\\\": \\\"harum non quasi et ratione\\\\ntempore iure ex voluptates in ratione\\\\nharum architecto fugit inventore cupiditate\\\\nvoluptates magni quo et\\\"\\n    }\\n]\"",
+              "code": "",
+              "err": {},
+              "uuid": "eecb226d-8143-43ad-9f3c-7563efdfb19c",
+              "parentUUID": "cf21fc7f-81f1-4ab7-bf87-0b37d68797e0",
+              "isHook": false,
+              "skipped": false
+            },
+            {
+              "title": "should verify GET comments call and handle, any handle slow server response",
+              "fullTitle": "Posts API service validation tests should verify GET comments call and handle, any handle slow server response",
+              "timedOut": false,
+              "duration": 448,
+              "state": "passed",
+              "speed": "slow",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": null,
+              "code": "",
+              "err": {},
+              "uuid": "c390ddee-8749-4eda-a321-f421ca9325c2",
+              "parentUUID": "cf21fc7f-81f1-4ab7-bf87-0b37d68797e0",
+              "isHook": false,
+              "skipped": false
+            },
+            {
+              "title": "should verify adding an additional POST to the list",
+              "fullTitle": "Posts API service validation tests should verify adding an additional POST to the list",
+              "timedOut": false,
+              "duration": 329,
+              "state": "passed",
+              "speed": "slow",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": "\"Response: {\\n    \\\"title\\\": \\\"Forward Accounts Coordinator\\\",\\n    \\\"body\\\": \\\"Sports\\\",\\n    \\\"userId\\\": \\\"7\\\",\\n    \\\"id\\\": 101\\n}\"",
+              "code": "",
+              "err": {},
+              "uuid": "f7442a10-98d8-4d6b-babb-ee463deed909",
+              "parentUUID": "cf21fc7f-81f1-4ab7-bf87-0b37d68797e0",
+              "isHook": false,
+              "skipped": false
+            }
+          ],
+          "suites": [],
+          "passes": [
+            "eecb226d-8143-43ad-9f3c-7563efdfb19c",
+            "c390ddee-8749-4eda-a321-f421ca9325c2",
+            "f7442a10-98d8-4d6b-babb-ee463deed909"
+          ],
+          "failures": [],
+          "pending": [],
+          "skipped": [],
+          "duration": 1347,
+          "root": false,
+          "rootEmpty": false,
+          "_timeout": 20000
+        }
+      ],
+      "passes": [],
+      "failures": [],
+      "pending": [],
+      "skipped": [],
+      "duration": 0,
+      "root": true,
+      "rootEmpty": true,
+      "_timeout": 20000
+    }
+  ],
+  "meta": {
+    "mocha": {
+      "version": "10.1.0"
+    },
+    "mochawesome": {
+      "options": {
+        "quiet": false,
+        "reportFilename": "mochawesome",
+        "saveHtml": true,
+        "saveJson": true,
+        "consoleReporter": "spec",
+        "useInlineDiffs": false,
+        "code": false
+      },
+      "version": "7.1.3"
+    },
+    "marge": {
+      "options": {
+        "o": "./reports/",
+        "t": "APITestReport",
+        "charts": "true",
+        "code": "false"
+      },
+      "version": "6.2.0"
+    }
+  }
+}

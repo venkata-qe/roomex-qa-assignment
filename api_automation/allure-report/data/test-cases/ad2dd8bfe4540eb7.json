@@ -1,0 +1,40 @@
+{
+  "uid" : "ad2dd8bfe4540eb7",
+  "name" : "should verify GET comments call and handle, any handle slow server response",
+  "fullName" : "should verify GET comments call and handle, any handle slow server response",
+  "historyId" : "d4ddea7c71f3b9392e41897e6eecd3a3",
+  "time" : {
+    "start" : 1666367535180,
+    "stop" : 1666367535605,
+    "duration" : 425
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "test"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Posts API service validation tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ad2dd8bfe4540eb7.json",
+  "parameterValues" : [ ]
+}

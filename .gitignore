@@ -1,0 +1,12 @@
+api_automation/node_modules/
+api_automation/allure-results/
+api_automation/allure-reports/
+ui_automation/node_modules/
+ui_automation/allure-results/
+ui_automation/allure-reports/
+ui_automation/reports/
+ui_automation/tmp/
+ui_automation/.env
+notes.TODO
+node_modules/
+.DS_Store
